@@ -1,0 +1,1 @@
+爬取Bilibili所有番剧的评论 Scrapy+Splash+ip代理+redis分布式，使用splash执行js获取ajax信息(关键)
